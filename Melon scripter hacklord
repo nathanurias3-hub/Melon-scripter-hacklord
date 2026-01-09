@@ -1133,11 +1133,11 @@ Accessories = {
 },
 ApplyDescription = true,
 BreakJointsDelay = 0.255,
-ClickFling = true,
+ClickFling = false,
 DefaultFlingOptions = {
 HatFling = false,
-Highlight = true,
-PredictionFling = true,
+Highlight = false,
+PredictionFling = false,
 Timeout = 1,
 ToolFling = false,
 },
@@ -1163,8 +1163,8 @@ UseServerBreakJoints = true,
 
 DefaultFlingOptions = {
 HatFling = false,
-Highlight = true,
-PredictionFling = true,
+Highlight = false,
+PredictionFling = false,
 Timeout = 1,
 ToolFling = false,
 }
